@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Galaxy S",
+            "desc":"6.1-inch display",
+            "price":999,
+            "image":"galaxy.PNG"
+        },
+        {
+            "id":"2",
+            "name":"iphone 12 pro",
+            "desc":"5.4-inch display",
+            "price":699,
+            "image":"i-12-p.JPG"
+        },
+        {
+            "id":"3",
+            "name":"iphone 12",
+            "desc":"6.5-inch display",
+            "price":399,
+            "image":"i-12.JPG"
+        }
+    ]
+}
